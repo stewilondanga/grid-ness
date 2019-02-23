@@ -307,12 +307,12 @@ main {
   color: white;
 }
 
-/*.item_18 {
+.item_18 {
   background-color: red;
   color: white;
 }
 
-.flex {
+/*.flex {
   display: flex;
   justify-content: space-around;
   width: 100%;
