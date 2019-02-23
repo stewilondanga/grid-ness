@@ -75,7 +75,7 @@ main {
 }
 
 /* ROWS SECTION */
-/*.rows_grid {
+.rows_grid {
   display: grid;
   grid-template-rows: 50px 50px 50px;
   height: 150px;
@@ -83,7 +83,7 @@ main {
   margin-top: 25px;
 }
 
-.row1 {
+/*.row1 {
   background-color: red;
 }
 
