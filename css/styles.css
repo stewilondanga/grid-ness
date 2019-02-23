@@ -357,7 +357,7 @@ main {
   border: 1px solid black;
 }
 
-/*.Grid-row_flex {
+.Grid-row_flex {
   display: flex;
   width: 75%;
   justify-content: space-around;
