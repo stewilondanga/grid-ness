@@ -318,7 +318,7 @@ main {
   width: 100%;
 }
 
-/*.gr_grid {
+.gr_grid {
   display: grid;
   grid-template-rows: 50px 50px 50px;
   grid-template-columns: 50px 50px 50px;
@@ -329,7 +329,7 @@ main {
   margin-bottom: 25px;
 }
 
-.gr_item_1 {
+/*.gr_item_1 {
   background-color: white;
   grid-row-start: 1;
   grid-row-end: 3;
