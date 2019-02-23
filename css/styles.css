@@ -336,11 +336,11 @@ main {
   border: 1px solid black;
 }
 
-/*.gr_item_2 {
+.gr_item_2 {
   background-color: black;
 }
 
-.gr_grid_2 {
+/*.gr_grid_2 {
   display: grid;
   grid-template-rows: 50px 50px 50px;
   grid-template-columns: 50px 50px 50px;
