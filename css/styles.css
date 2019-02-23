@@ -175,12 +175,12 @@ main {
   color: white;
 }
 
-/*.item_3 {
+.item_3 {
   background-color: indigo;
   color: white
 }
 
-.justify_items_grid_2 {
+/*.justify_items_grid_2 {
   display: grid;
   grid-template-rows: repeat(3, 30px);
   height: 90x;
