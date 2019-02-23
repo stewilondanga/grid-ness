@@ -64,12 +64,12 @@ main {
   font-size: 1.15rem;
 }
 
-/*.main-section header {
+.main-section header {
   font-size: 2rem;
   font-family: 'Raleway', sans-serif;
 }
 
-.main-section {
+/*.main-section {
   padding: 25px;
   font-family: 'Montserrat', sans-serif;
 }
