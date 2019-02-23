@@ -351,13 +351,13 @@ main {
   margin-bottom: 25px;
 }
 
-/*.gr_item_3 {
+.gr_item_3 {
   grid-row-start: span 3;
   background-color: white;
   border: 1px solid black;
 }
 
-.Grid-row_flex {
+/*.Grid-row_flex {
   display: flex;
   width: 75%;
   justify-content: space-around;
