@@ -340,7 +340,7 @@ main {
   background-color: black;
 }
 
-/*.gr_grid_2 {
+.gr_grid_2 {
   display: grid;
   grid-template-rows: 50px 50px 50px;
   grid-template-columns: 50px 50px 50px;
@@ -351,7 +351,7 @@ main {
   margin-bottom: 25px;
 }
 
-.gr_item_3 {
+/*.gr_item_3 {
   grid-row-start: span 3;
   background-color: white;
   border: 1px solid black;
