@@ -6,8 +6,6 @@ body {
   background-color: rgba(158, 158, 158, 0.5)
 }
 
-/*
-
 .my_social {
   position: absolute;
   top: 25px;
@@ -15,7 +13,7 @@ body {
   z-index: 10;
 }
 
-.my_social a {
+/*.my_social a {
   display: inline-block;
   height: 2.5em;
 }
