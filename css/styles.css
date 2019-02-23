@@ -375,11 +375,11 @@ main {
   margin-bottom: 25px;
 }
 
-/*.gc_item_2 {
+.gc_item_2 {
   background-color: black;
 }
 
-.gc_item_4 {
+/*.gc_item_4 {
   background-color: white;
   grid-column-start: 2;
   grid-column-end: 4;
