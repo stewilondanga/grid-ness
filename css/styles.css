@@ -58,13 +58,13 @@ a:hover {
 }
 
 /* MAIN */
-/*main {
+main {
   position: absolute;
   left: 250px;
   font-size: 1.15rem;
 }
 
-.main-section header {
+/*.main-section header {
   font-size: 2rem;
   font-family: 'Raleway', sans-serif;
 }
