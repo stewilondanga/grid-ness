@@ -206,18 +206,19 @@ main {
   color: white;
 }
 
-/*.justify_items_grid_3 {
+.justify_items_grid_3 {
   display: grid;
   grid-template-rows: repeat(3, 30px);
   height: 90x;
   width: 90px;
-  justify-items: center;;
+  justify-items: center;
+  ;
   background-color: white;
   border: 1px solid black;
   margin-top: 25px;
 }
 
-.item_7 {
+/*.item_7 {
   background-color: yellow;
   color: black;
 }
