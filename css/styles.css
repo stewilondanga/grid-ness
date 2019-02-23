@@ -201,12 +201,12 @@ main {
   color: white;
 }
 
-/*.item_6 {
+.item_6 {
   background-color: orange;
   color: white;
 }
 
-.justify_items_grid_3 {
+/*.justify_items_grid_3 {
   display: grid;
   grid-template-rows: repeat(3, 30px);
   height: 90x;
