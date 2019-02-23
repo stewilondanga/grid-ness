@@ -329,14 +329,14 @@ main {
   margin-bottom: 25px;
 }
 
-/*.gr_item_1 {
+.gr_item_1 {
   background-color: white;
   grid-row-start: 1;
   grid-row-end: 3;
   border: 1px solid black;
 }
 
-.gr_item_2 {
+/*.gr_item_2 {
   background-color: black;
 }
 
