@@ -386,13 +386,13 @@ main {
   border: 1px solid black;
 }
 
-/*.gc_item_5 {
+.gc_item_5 {
   background-color: white;
   grid-column-start: span 3;
   border: 1px solid black;
 }
 
-.Grid-column_flex {
+/*.Grid-column_flex {
   display: flex;
   width: 75%;
   justify-content: space-around;
