@@ -286,7 +286,7 @@ main {
   color: white;
 }
 
-/*.align_items_grid_3 {
+.align_items_grid_3 {
   display: grid;
   grid-template-rows: repeat(3, 30px);
   height: 90x;
@@ -297,7 +297,7 @@ main {
   margin-top: 25px;
 }
 
-.item_16 {
+/*.item_16 {
   background-color: blue;
   color: white;
 }
