@@ -312,13 +312,13 @@ main {
   color: white;
 }
 
-/*.flex {
+.flex {
   display: flex;
   justify-content: space-around;
   width: 100%;
 }
 
-.gr_grid {
+/*.gr_grid {
   display: grid;
   grid-template-rows: 50px 50px 50px;
   grid-template-columns: 50px 50px 50px;
