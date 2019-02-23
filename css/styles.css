@@ -42,7 +42,7 @@ body {
   text-align: center;
 }
 
-/*a {
+a {
   display: block;
   text-decoration: none;
   padding: 10px;
@@ -53,7 +53,7 @@ body {
   background-color: rgba(158, 158, 158, 1);
 }
 
-
+/*
 a:hover {
   color: white;
 }
