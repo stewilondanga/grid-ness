@@ -281,12 +281,12 @@ main {
   color: black;
 }
 
-/*.item_15 {
+.item_15 {
   background-color: green;
   color: white;
 }
 
-.align_items_grid_3 {
+/*.align_items_grid_3 {
   display: grid;
   grid-template-rows: repeat(3, 30px);
   height: 90x;
